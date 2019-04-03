@@ -1,0 +1,6 @@
+[submodule "Policy-Based-Process-Schedulers"]
+	path = Policy-Based-Process-Schedulers
+	url = https://github.com/ruturajvy/Policy-Based-Process-Schedulers
+[submodule "Readers-Writers-Locks"]
+	path = Readers-Writers-Locks
+	url = https://github.com/ruturajvy/Readers-Writers-Locks
